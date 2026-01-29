@@ -1,10 +1,8 @@
 # Section 1 - Basics
 
-## Foundation
-
 Run from root using the following command (UNIX/Linux):
 ```bash
-go run Golang/01-Basics/foundation.go
+go run Golang/01-Basics/main.go
 ```
 
 The output should look as follows:
